@@ -1,4 +1,4 @@
-# Codee 201 Reading Notes
+# Code 201 Reading Notes
 
 In this website, you can find all of my 201 reading notes.
 
