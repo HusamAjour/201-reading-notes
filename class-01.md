@@ -9,6 +9,7 @@ All websites use HTML, CSS, and other technolgies could be used based on the typ
 Websites are hosted on servers that could be anywhere in the world. The browser you're using knows how to find the website you want access using DNS (Domain Name System).
 
 ## Structure
+
 HTML is short for Hypertext Markup Language which is used to build and create webpages using elements called tags. Each HTML tag tells the browser something about the information that lays between its openning and closing. HTML tags can be divided into two types: openning tag and closing tag.
 
 The HTML openning tag consists of 3 parts; `<`, `>`, and the value between them, and the HTML closing tag has the same elements in addition to `/` that comes directly after `<`. Also, There are some tags that don’t need a closing tag, there are called self-closing tags or void tags.
@@ -24,6 +25,7 @@ Example:
 `<img src="/image.png">`
 
 ## HTML Layout
+
 In HTML 5, the elements started to indicate the purpose of different part of the HTML document and help to organize and describe the structure of the document.
 
 Example:
@@ -33,6 +35,7 @@ Example:
 The problem is that some old browsers such as IE8 doesn’t support HTML5, and to make it work on that browser you might need to add extra javascript code so the brwoser starts to identify HTML5.
 
 ## Process and Design
+
 When you’re designing your website, it is really important to build it in a way that attracts your targeted audience, and the website should also have the information that needed by that audience to give them a reason to visit your website.
 
 It is recommended to use site maps when you’re building your website, since site maps allows you to plan the structure of the site you want to build. In addition to site maps, Wireframes also help in the same matter. Wireframes allows you to organize the information and on what pages to place them.
@@ -58,9 +61,6 @@ The table below has some of the most used html tags and the meaning of each tag.
 |`<iframe></iframe>`|The tag can be used to cut windows into your web pages through which other pages can be displayed.|
 |`<meta />`|The tag is used to supply all kinds of information about your web page.|
 
-
-[Back to Home](README.md)
-
 ## What is JavaScript
 
 JavaScript is a programming that is used to make webpages interactive by modifying the content while it being viewed on the browser. JavaScript allows the developers to access any element, attribute, or text from an element page wether by using tag names, classes, or IDs, and it also gives the developer the ability to add or modify elements, attributes and text or even remome them from an HTML page.
@@ -76,11 +76,11 @@ Operators has to two types: Arithmatic operators and string operators. Arethmeti
 
 ![Arithmetic Operators](images/arithmetic.PNG)
 
-There is just one string operator which is `+`. This operator is used between to striings to concatenate them into one string. 
+There is just one string operator which is `+`. This operator is used between to striings to concatenate them into one string.
 
 Example:
 
-```
+```javascript
 var fname = 'Husam ';
 var lname = 'Ajour;
 var fullName = fname + lname;
@@ -96,7 +96,7 @@ Functions have two types; functions that need to be provided with information to
 
 An example on a function that doesn't need any provided information:
 
-```
+```javascript
 function sayHello(){
     document.write('Hello');
 }
@@ -104,8 +104,10 @@ function sayHello(){
 
 An example on a functoin that requires provided data and it has a return value:
 
-```
+```javascript
 function getArea(width, height){
     return width*height;
 }
 ```
+
+[Back to Home](README.md)
