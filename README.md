@@ -5,7 +5,7 @@ In this website, you can find all of my 201 reading notes.
 ## Table of content:
 
 | Read # | Link |
-|---|---|
+|------|------|
 | Read 1 | [Link 1](class-01.md) |
 | Read 2 | [Link 2]() |
 | Read 3 | [Link 3]() |
