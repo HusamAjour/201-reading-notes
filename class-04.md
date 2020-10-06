@@ -1,4 +1,4 @@
-# Class 03
+# Class 04
 
 ## Links in HTML
 
@@ -48,3 +48,5 @@ sayHi('Husam');
 ```
 
 Functions could be written to just print a message, or it could do a math operation for example and return the result to the user. Variables that were declared inside a function cannot be used outside of that function, but variables that were declared outside of a function could be called inside any function.
+
+[Back to Home](README.md)
