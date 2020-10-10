@@ -39,3 +39,5 @@ There are many ways to specify the size of the font such as pixels, percentage, 
 The image below shows font formats and what browsers support them:
 
 ![Image](images/browser-support.PNG)
+
+[Back to Home](README.md)
