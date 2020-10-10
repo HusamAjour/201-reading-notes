@@ -76,3 +76,5 @@ To traverse between nodes, you can use the following methods:
 There are many reasons to access an node. For example, you may want to access an element to get it text value, and that could be done using `nodeValue` property, or you may want to access a node to create children element or remove them, or you maybe want to add or remove an attribute to that element.
 
 Web browsers offer tools for viewing the DOM tree.
+
+[Back to Home](README.md)
