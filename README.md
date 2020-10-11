@@ -12,7 +12,7 @@ In this website, you can find all of my 201 reading notes.
 | Read 4 | [Link 4](class-04.md) |
 | Read 5 | [Link 5](class-05.md) |
 | Read 6 | [Link 6](class-06.md) |
-| Read 7 | [Link 7]() |
+| Read 7 | [Link 7](class-07.md) |
 | Read 8 | [Link 8]() |
 | Read 9 | [Link 9]() |
 | Read 10 | [Link 10]() |
