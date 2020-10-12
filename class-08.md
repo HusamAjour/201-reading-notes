@@ -11,7 +11,7 @@ The table below shows some of CSS positioning properties and values and what the
 |----|----|----|
 | `position: static;` | Default positiont value | ![image](images/normal-pos.PNG) |
 | `position: relative;` | Relative positioning moves an element in relation to where it would have been in normal flow. | ![image](images/relative-pos.PNG) |
-| `position:absolute;` | box is taken out of normal flow and no longer affects the position of other elements on the page | ![image](images/absoulte-pos.PNG) |
+| `position:absolute;` | box is taken out of normal flow and no longer affects the position of other elements on the page | ![image](images/absolute-pos.PNG) |
 | `position:fixed;` | is a type of absolute positioning that requires the position property to have a value of fixed | ![image](images/fixed-pos.PNG) |
 | `float: value;` | allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible | ![image](images/float-pos.PNG) |
 | `z-index: value;` | control which element sits on top when elements are covering one another |
