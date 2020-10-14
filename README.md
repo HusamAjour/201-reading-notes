@@ -2,7 +2,7 @@
 
 In this website, you can find all of my 201 reading notes.
 
-## Table of content:
+## Table of content
 
 | Read # | Link |
 |------|------|
@@ -15,7 +15,7 @@ In this website, you can find all of my 201 reading notes.
 | Read 7 | [Link 7](class-07.md) |
 | Read 8 | [Link 8](class-08.md) |
 | Read 9 | [Link 9](class-09.md) |
-| Read 10 | [Link 10]() |
+| Read 10 | [Link 10](class-10.md) |
 | Read 11 | [Link 11]() |
 | Read 12 | [Link 12]() |
 | Read 13 | [Link 13]() |

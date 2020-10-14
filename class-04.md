@@ -4,7 +4,7 @@
 
 Links are the used to navigate between web pages and external resources. With links, you can move one website to another, web pages in the same site, and also, you can also move from one part in the web page to another part in the same page.
 
-To add a link to your website, you can use the tag `<a></a>`. Insie the opening tag of `<a>`, you can add the attribute `href` and inside of it you can add the URL of the website you want to visit, or the path of the web page you want to open, or if you're targeting an element in the same web page you can add the `id` of that element inside the `href` of the link. 
+To add a link to your website, you can use the tag `<a></a>`. Insie the opening tag of `<a>`, you can add the attribute `href` and inside of it you can add the URL of the website you want to visit, or the path of the web page you want to open, or if you're targeting an element in the same web page you can add the `id` of that element inside the `href` of the link.
 
 ```html
 <a href="https://www.imdb.com">IMDB</a>

@@ -1,10 +1,10 @@
 # Class 01
 
-## How websites are created?
+## How websites are created
 
 All websites use HTML, CSS, and other technolgies could be used based on the type of the wesbite.
 
-## How the web works?
+## How the web works
 
 Websites are hosted on servers that could be anywhere in the world. The browser you're using knows how to find the website you want access using DNS (Domain Name System).
 
@@ -82,7 +82,7 @@ Example:
 
 ```javascript
 var fname = 'Husam ';
-var lname = 'Ajour;
+var lname = 'Ajour';
 var fullName = fname + lname;
 ```
 
