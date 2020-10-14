@@ -23,7 +23,6 @@ be subscript. |
 | `<br />` | Structural markup | to add a line break inside the middle of a paragraph. |
 | `<hr />` | Structural markup | to add a horizontal rule between sections. |
 
-
 ## CSS
 
 CSS is short for Cascading Style Sheet which is used to style to HTML content and beautify it. To apply CSS, we need to specify which element we want to style and call it, that's called selectos. after we choose our selctor, we add the css rules such as color, background color, .etc and those are called properties. Each property needs a value that represents the propery. For example, you can't use the value `10px` to specify the property `background-color`.

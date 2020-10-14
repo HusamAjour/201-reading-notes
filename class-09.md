@@ -13,7 +13,7 @@ interactive.
 
 ## Events
 
-Evenet are the browser's way of saying, "Hey, this just happened." such as clicking on a button, scrolling, or even filling you information in a form. Your script can then respond to these events. 
+Evenet are the browser's way of saying, "Hey, this just happened." such as clicking on a button, scrolling, or even filling you information in a form. Your script can then respond to these events.
 
 The table below a list of events and their description:
 
