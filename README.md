@@ -17,7 +17,7 @@ In this website, you can find all of my 201 reading notes.
 | Read 9 | [Link 9](class-09.md) |
 | Read 10 | [Link 10](class-10.md) |
 | Read 11 | [Link 11](class-11.md) |
-| Read 12 | [Link 12]() |
+| Read 12 | [Link 12](class-12.md) |
 | Read 13 | [Link 13]() |
 | Read 14 | [Link 14]() |
 | Read 15 | [Link 15]() |
