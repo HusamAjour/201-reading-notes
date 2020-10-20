@@ -20,4 +20,5 @@ In this website, you can find all of my 201 reading notes.
 | Read 12 | [Link 12](class-12.md) |
 | Read 13 | [Link 13](class-13.md) |
 | Read 14 | [Link 14]() |
+| Read 14b | [Link 14](class-14b.md) |
 | Read 15 | [Link 15]() |
